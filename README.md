@@ -11,3 +11,4 @@
 # 06/16/26 - finished figlet.py
 # 06/16/26 - finished adieu.py
 # 06/16/26 - finished game.py
+# 06/16/26 - finished professor.py
