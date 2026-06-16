@@ -7,3 +7,4 @@
 # 06/15/26 - finished taqueria.py
 # 06/15/26 - finished grocery.py
 # 06/15/26 - finished outdated.py
+# 06/16/26 - finished emojize.py
