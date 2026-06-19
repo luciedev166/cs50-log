@@ -19,3 +19,5 @@
 # 06/17/26 - finished test_fuel.py
 # 06/18/26 - broke streak but was stuck in cs50p lecture
 # 06/19/26 - finished lines.py
+# 06/19/26 - finished pizza.py
+
