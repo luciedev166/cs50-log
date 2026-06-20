@@ -21,5 +21,6 @@
 # 06/19/26 - finished lines.py
 # 06/19/26 - finished pizza.py
 # 06/20/26 - finished scourgify.py
+# 06/20/26 - finished shirt.py
 
 
