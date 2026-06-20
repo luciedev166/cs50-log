@@ -20,4 +20,6 @@
 # 06/18/26 - broke streak but was stuck in cs50p lecture
 # 06/19/26 - finished lines.py
 # 06/19/26 - finished pizza.py
+# 06/20/26 - finished scourgify.py
+
 
