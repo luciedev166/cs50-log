@@ -22,6 +22,6 @@
 # 06/19/26 - finished pizza.py
 # 06/20/26 - finished scourgify.py
 # 06/20/26 - finished shirt.py
-# 06/21/26 - almost forgot damn it
+# 06/21/26 - Exemption: Redo code
 
 
